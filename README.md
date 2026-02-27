@@ -23,7 +23,8 @@ See all functions and features at directordesk.pro
 ## 💻 System Requirements
 
 - Windows 10 or later
-- 
+- OBS Studio 28+ recommended
+- ONVIF Profile S
 
 ---
 
